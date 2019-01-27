@@ -1,0 +1,15 @@
+{
+  "name": "acme-users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "acme-users.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
